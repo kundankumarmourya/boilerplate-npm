@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Kundan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Kundan",
 	"engines": {
 		"node": "8.11.2"
 	},
